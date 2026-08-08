@@ -4,9 +4,8 @@ Statische, responsive Markenwebsite für SOLOUNGE Frosted Ice Blue und Deep Viol
 
 ## Vor der Veröffentlichung ausfüllen
 
-1. In `index.html` den Platzhalter für Instagram ersetzen.
-2. `impressum.html` und `datenschutz.html` mit korrekten, geprüften Angaben vervollständigen.
-3. Nach Kauf einer eigenen Domain die GitHub-Pages-Adresse in `index.html`, `robots.txt` und `sitemap.xml` ersetzen.
+1. `impressum.html` und `datenschutz.html` mit korrekten, geprüften Angaben vervollständigen.
+2. Nach Kauf einer eigenen Domain die GitHub-Pages-Adresse in `index.html`, `robots.txt` und `sitemap.xml` ersetzen.
 
 ## Lokal ansehen
 
