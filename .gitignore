@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+outputs/
+assets/product-visuals/
+assets/generated/
+assets/web/solounge-oud-blue-*

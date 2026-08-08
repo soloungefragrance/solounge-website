@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://soloungefragrance.github.io/solounge-website/sitemap.xml
