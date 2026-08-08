@@ -5,7 +5,17 @@ Statische, responsive Markenwebsite für SOLOUNGE Frosted Ice Blue und Deep Viol
 ## Vor der Veröffentlichung ausfüllen
 
 1. `impressum.html` und `datenschutz.html` mit korrekten, geprüften Angaben vervollständigen.
-2. Nach Kauf einer eigenen Domain die GitHub-Pages-Adresse in `index.html`, `robots.txt` und `sitemap.xml` ersetzen.
+2. Wegen der kommerziellen Vorbestellfunktion von GitHub Pages auf ein dafür zulässiges Hosting umziehen und anschließend die öffentlichen URLs in `index.html`, `robots.txt` und `sitemap.xml` ersetzen.
+
+## Vorbestellungen
+
+- Formular bearbeiten: https://docs.google.com/forms/d/1D_PsRGVtanLZNaNDyjiSL-sZw4tGPEP0Gow4s3xCQus/edit
+- Gespeicherte Antworten ansehen: https://docs.google.com/spreadsheets/d/1CX8NjK2iTTlM02tPSF_8jXUEk-NqudOqAKrWq3D6sQc/edit
+- Öffentliches Google-Formular: https://docs.google.com/forms/d/e/1FAIpQLSdsKvcKHGGgCkiZ0wnn3q9jxa3n9PABwCgAe8L4E22BkuORiA/viewform
+
+## Sicherer Checkout
+
+Der Vorbestellpfad ist für eine automatische Weiterleitung vorbereitet. Sobald ein echter Stripe-Payment-Link mit bestätigtem Produktpreis, Versand und Lieferzeit vorliegt, wird er in `index.html` beim Attribut `data-checkout-url` eingetragen. Ohne Checkout-URL bleibt die Registrierung unverbindlich und es findet keine Zahlung statt.
 
 ## Lokal ansehen
 
