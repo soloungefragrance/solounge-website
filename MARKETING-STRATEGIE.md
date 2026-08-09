@@ -1,10 +1,10 @@
-# SOLOUNGE Pre-Order-Marketingstrategie
+# SOLUNGE Pre-Order-Marketingstrategie
 
 Stand: August 2026
 
 ## Strategische Entscheidung
 
-SOLOUNGE startet mit einer bezahlten, mengenmäßig ehrlich begrenzten Founder Pre-Order. Sie ist ein normaler Kauf mit späterer Lieferung, keine unverbindliche Vormerkung und keine Spende. Die kostenlose Launch-Liste bleibt als zweite Möglichkeit für Interessenten bestehen, die noch nicht kaufen möchten.
+SOLUNGE startet mit einer bezahlten, mengenmäßig ehrlich begrenzten Founder Pre-Order. Sie ist ein normaler Kauf mit späterer Lieferung, keine unverbindliche Vormerkung und keine Spende. Die kostenlose Launch-Liste bleibt als zweite Möglichkeit für Interessenten bestehen, die noch nicht kaufen möchten.
 
 Bezahlte Vorbestellungen beginnen erst, wenn Produktpreis, realistische Lieferzeit, Produktionskapazität, Versandkosten, Rückgabeprozess und Kosmetik-Compliance bestätigt sind.
 
@@ -23,7 +23,7 @@ Die verfügbare Founder-Menge darf nur so hoch sein wie die nachweislich produzi
 ## Der einfachste Kaufweg
 
 Social-Media-Beitrag oder Creator-Empfehlung
-→ passende SOLOUNGE Landingpage
+→ passende SOLUNGE Landingpage
 → Duft oder Duo auswählen
 → „Jetzt vorbestellen und bezahlen“
 → gehosteter Stripe Checkout

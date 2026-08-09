@@ -1,6 +1,6 @@
-# SOLOUNGE Website
+# SOLUNGE Website
 
-Statische, responsive Markenwebsite für SOLOUNGE Frosted Ice Blue und Deep Violet. Sie benötigt keinen kostenpflichtigen Hostingdienst und funktioniert auf GitHub Pages auch unter einer Repository-Unteradresse.
+Statische, responsive Markenwebsite für SOLUNGE Frosted Ice Blue und Deep Violet. Sie benötigt keinen kostenpflichtigen Hostingdienst und funktioniert auf GitHub Pages auch unter einer Repository-Unteradresse.
 
 ## Vor der Veröffentlichung ausfüllen
 
@@ -47,6 +47,17 @@ Eine eigene Domain lässt sich später unter **Settings → Pages → Custom dom
 - `assets/generated/` — hochauflösende lokale Arbeitsdateien (nicht öffentlich veröffentlicht)
 - `assets/web/` — komprimierte WebP-Versionen für schnelle Ladezeiten
 - `404.html`, `robots.txt`, `sitemap.xml`, `.nojekyll` — GitHub-Pages- und SEO-Dateien
+
+## Produkt- und Lieferantenunterlagen
+
+- `PRODUKTBRIEF-10ML-ROLLON.md` — einheitliche Spezifikation für Herstellerangebote
+- `TESTBUDGET-UND-ENTSCHEIDUNG.md` — Budgetgrenzen und Go/No-Go-Regeln
+- `ANBIETER-ANTWORTCHECKLISTE.md` — Prüfung und Vergleich eingehender Angebote
+- `china-lieferkette-solounge.md` — möglicher China-/EU-Compliance-Ablauf
+- `MARKEN-VORPRUEFUNG-SOLUNGE.md` — erste Marken- und Namensprüfung
+- `CREATOR-KAMPAGNENBRIEF-SOLUNGE.md` — Briefing, Auswahlmodell und Kontaktvorlagen
+- `MARKETING-STRATEGIE.md` — bezahlter Founder-Preorder-Pfad nach Produktfreigabe
+- `MARKETING-VALIDIERUNG-14-TAGE.md` — sofort nutzbarer Testplan vor dem Verkauf
 
 ## Hinweise
 
